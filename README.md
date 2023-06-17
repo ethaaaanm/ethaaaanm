@@ -22,14 +22,15 @@
   </div>
 </div>
 
+
+<h2> About Me: </h2>
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
-<h2> About Me: </h2>
 I am a Computer Science Student at Queen's University interested in Native Development and Creating Mobile Apps.
-- Pursuing Minors in Business and Entrepreneurship
-- Founder of Sprout Labs 🌱, where innovation starts with you
-- I'm currently working on productivity and community apps to release to app stores
+* Pursuing Minors in Business and Entrepreneurship
+* Founder of Sprout Labs 🌱, where innovation starts with you
+* I'm currently working on productivity and community apps to release to app stores
 
 ### Languages and Tools:
 <div id="Language Icons">
