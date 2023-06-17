@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="My LinkedIn"/>
   </a>
   <a href="mailto:ett.mah@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=red" alt="My Email"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=red" alt="My Email"/>
   </a>
   <a href="your-twitter-URL">
     <img src="https://img.shields.io/badge/minutemailer-%233ABFE6.svg?style=for-the-badge&logo=minutemailer&logoColor=green" alt="My Portfolio"/>
