@@ -7,6 +7,8 @@
 [![Gmail Badge](https://img.shields.io/badge/-ett.mah@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ett.mah@gmail.com)](mailto:ett.mah@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-Ethan_Mah-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[[https://www.linkedin.com/in/osan](https://www.linkedin.com/in/ethan-mah-348249213/)/](https://www.linkedin.com/in/ethan-mah-348249213/))](https://www.linkedin.com/in/ethan-mah-348249213/)
 [![Portfolio Badge](https://img.shields.io/badge/-My_Portfolio-red?style=flat-square&logo=Minutemailer&logoColor=red&link=https://ethaaaanm.github.io/ethanmah.github.io/)](https://ethaaaanm.github.io/ethanmah.github.io/)
+<img src="https://img.shields.io/badge/MinuteMailer-yellow?style=for-the-badge&logo=minutemailer&logoColor=white" alt="My Portfolio"/>
+
 </div>
 
 
