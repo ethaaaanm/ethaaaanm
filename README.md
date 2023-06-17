@@ -2,19 +2,13 @@
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="100"/>
+  
+## Connect With Me On:
+[![Gmail Badge](https://img.shields.io/badge/-ett/mah@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ett.mah@gmail.com)](mailto:ett.mah@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Ethan_Mah-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[[https://www.linkedin.com/in/osan](https://www.linkedin.com/in/ethan-mah-348249213/)/](https://www.linkedin.com/in/ethan-mah-348249213/))](https://www.linkedin.com/in/ethan-mah-348249213/)
 </div>
 
-<div id="badges">
-  <a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
+
 <!--
 **ethaaaanm/ethaaaanm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
