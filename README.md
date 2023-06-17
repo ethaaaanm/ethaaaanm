@@ -2,12 +2,18 @@
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="100"/>
-  
-## Connect With Me On:
-[![Gmail Badge](https://img.shields.io/badge/-ett.mah@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ett.mah@gmail.com)](mailto:ett.mah@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-Ethan_Mah-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[[https://www.linkedin.com/in/osan](https://www.linkedin.com/in/ethan-mah-348249213/)/](https://www.linkedin.com/in/ethan-mah-348249213/))](https://www.linkedin.com/in/ethan-mah-348249213/)
-[![Portfolio Badge](https://img.shields.io/badge/MinuteMailer-yellow?style=flat-square&logo=minutemailer&logoColor=yellow&link=https://ethaaaanm.github.io/ethanmah.github.io/)](https://ethaaaanm.github.io/ethanmah.github.io/)
-
+  ## Connect With Me On:
+  <div id="badges">
+  <a href="https://www.linkedin.com/in/ethan-mah-348249213/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="My LinkedIn"/>
+  </a>
+  <a href="mailto:ett.mah@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=red" alt="My Email"/>
+  </a>
+  <a href="your-twitter-URL">
+    <img src="https://img.shields.io/badge/minutemailer-%233ABFE6.svg?style=for-the-badge&logo=minutemailer&logoColor=green" alt="My Portfolio"/>
+  </a>
+  </div>
 </div>
 
 
