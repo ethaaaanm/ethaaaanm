@@ -1,6 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="100"/>
   <h1> Hi There, I'm Ethan! </h1>
+  <p> An Aspiring Software Developer always looking to Learn and Innovate! <br/> I am passionate about creating solutions to every day problems using mobile apps</p>
 </div>
 
 <div id="badges" align="center">
@@ -29,9 +30,6 @@ I am a Computer Science Student at Queen's University interested in Native Devel
 - Pursuing Minors in Business and Entrepreneurship
 - Founder of Sprout Labs 🌱, where innovation starts with you
 - I'm currently working on productivity and community apps to release to app stores
-
----
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
 
 ### Languages and Tools:
 <div id="Language Icons">
