@@ -27,6 +27,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
+
 I am a Computer Science Student at Queen's University interested in Native Development and Creating Mobile Apps.
 * Pursuing Minors in Business and Entrepreneurship
 * Founder of Sprout Labs 🌱, where innovation starts with you
