@@ -7,7 +7,7 @@
 <div id="badges" align="center">
   <h2>Connect With Me:</h2>
 
-  <a href="https://www.linkedin.com/in/ethan-mah-348249213/">
+  <a href="www.linkedin.com/in/etthanmah">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="My LinkedIn"/>
   </a>
   <a href="mailto:ett.mah@gmail.com">
